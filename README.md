@@ -1,0 +1,1 @@
+# Icinga2_template_docker
